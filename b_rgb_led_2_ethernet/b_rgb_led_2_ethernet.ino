@@ -16,7 +16,8 @@ int previousValues[3] = {0, 0, 0};
 int index = 0;
 bool directionUp = true;
 
-EthernetServer server(1000);
+int port = 1000;
+EthernetServer server(port);
 
 void setup() {
   Serial.begin(9600);
@@ -29,8 +30,9 @@ void setup() {
   pinMode(GREEN_PIN, OUTPUT);
   pinMode(BLUE_PIN, OUTPUT);
 
-  lcd->print(F("IP: "));
-  
+  lcd->print(Ethernet.localIP());
+  lcd->print(":");
+  lcd->print(port);
   lcd->setCursor(0,1);
   lcd->print(F("Red  :0"));
   lcd->setCursor(0,2);
