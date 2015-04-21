@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>40ABBA06-D20A-48DE-87D7-CB6EDA8EE0FD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RGB Led Control</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2623A45ABD2EF34A2B3214ABF7F26F414B6A7F5F</key>
+		<string>github.com:jlanatta/arduino_samples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>b_rgb_led_2_ethernet/iOS/RGB Led Control/RGB Led Control.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2623A45ABD2EF34A2B3214ABF7F26F414B6A7F5F</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jlanatta/arduino_samples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2623A45ABD2EF34A2B3214ABF7F26F414B6A7F5F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2623A45ABD2EF34A2B3214ABF7F26F414B6A7F5F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Arduino</string>
+		</dict>
+	</array>
+</dict>
+</plist>
